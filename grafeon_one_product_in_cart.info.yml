@@ -1,0 +1,6 @@
+name: Grafeon - Allow only one product in Cart
+description: Povoľuje len 1 produkt v košíku, nikdy nie viac.
+package: Grafeon
+
+type: module
+core: 8.x

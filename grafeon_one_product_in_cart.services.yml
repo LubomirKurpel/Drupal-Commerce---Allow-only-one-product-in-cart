@@ -1,0 +1,5 @@
+services:
+  grafeon_one_product_in_cart.subscriber:
+    class: Drupal\grafeon_one_product_in_cart\EventSubscriber\GrafeonOneProductInCartEventSubscriber
+    tags:
+      - {name: event_subscriber}
